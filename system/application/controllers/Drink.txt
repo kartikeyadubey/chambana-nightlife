@@ -1,0 +1,19 @@
+<?php
+class Drink extends Controller {
+
+	function show_all()
+	{
+		echo 'Hello World!';
+	}
+	
+	function index()
+	{
+		echo 'No Command!';
+	}
+
+	function comments()
+	{
+		echo 'Look at this!';
+	}
+}
+?>
