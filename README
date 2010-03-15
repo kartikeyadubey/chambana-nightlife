@@ -1,0 +1,2 @@
+Go to http://localhost/index.php/Drink to see codeignitor in action
+You will have to change the database config in the system/application/config/database.php
